@@ -149,4 +149,4 @@ sr.reveal(".team__data", {
   delay: "200"
 });
 },{}]},{},["FVPG"], null)
-//# sourceMappingURL=/main.7d98310f.js.map
+//# sourceMappingURL=main.7d98310f.js.map
