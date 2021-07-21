@@ -1,0 +1,25 @@
+{
+  "name": "fylo-parcel",
+  "version": "1.0.0",
+  "description": "Parcel testing",
+  "main": "index.html",
+  "scripts": {
+    "cleanup": "rm -rf .cache dist",
+    "dev": "parcel index.html",
+    "build": "parcel build index.html --no-minify",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/satnaing/fylo-parcel.git"
+  },
+  "author": "Sat Naing",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/satnaing/fylo-parcel/issues"
+  },
+  "homepage": "https://github.com/satnaing/fylo-parcel#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
